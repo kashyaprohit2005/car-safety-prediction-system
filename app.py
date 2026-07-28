@@ -3,8 +3,8 @@ import joblib
 import pandas as pd
 import gradio as gr
 # Car Evaluation Prediction System
-# Developed By : Parth
-# Roll No      : 241504
+# Developed By : Rohit
+# Roll No      : 241539
 # College      : Panipat Institute of Engineering & Technology (PIET), Samalkha
 
 # Load trained model
@@ -68,9 +68,9 @@ This project predicts the **overall evaluation of a car** based on:
 
 ###  Developed By
 
-**Name : Parth**
+**Name : Rohit**
 
-**Roll No : 241504**
+**Roll No : 241539**
 
 **Course : BCA (Data Science)**
 
@@ -148,7 +148,7 @@ This project predicts the **overall evaluation of a car** based on:
 
 **Language:** Python
 
-**Developed By:** **Parth (241504)**
+**Developed By:** **Rohit**
 
 **PIET, Samalkha**
 
